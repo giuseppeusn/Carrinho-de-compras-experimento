@@ -1,6 +1,6 @@
 import pytest
 
-from src.carrinho import Carrinho
+from Source.carrinho import Carrinho
 
 
 def test_adicionar_item_soma_quantidade_do_mesmo_nome():
